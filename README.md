@@ -15,7 +15,7 @@ Step 4 : Simple Test Case Example mention as below
          
          - Create Test file in app/tests directory from your root directory of project.
          
-         - Copy below code in created file
+         - Copy below code in created file with name of UserTest.php
          
                   class UserTest extends TestCase {
                   }
