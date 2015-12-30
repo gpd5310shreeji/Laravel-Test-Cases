@@ -27,5 +27,13 @@ Step 4 : Simple Test Case Example mention as below
          		$response = $this->call('GET', 'users/show');
          		$this->assertTrue(true);
          	}
-         -
+         
+Step 5 : Go to Commmand Prompt to run this Test Case.
+
+Step 6 : Run the "phpunit" command to run the created test cases.
+
+Step 7 : You will get Response if you success to run all test cases 
+         
+         - OK (4 tests, 4 assertions) 
+
          
