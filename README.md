@@ -1,4 +1,4 @@
-# Laravel-Test-Cases
+# Laravel-Test-Cases 4.2
 You can learn how to create and run test classes in laravel using PHPunit.
 
 Step 1 : Install Laravel using official documentation.
