@@ -11,10 +11,21 @@ Step 3 : How to use Test Case Feature in your project follow the below url.
          
 Step 4 : Simple Test Case Example mention as below 
 
+         - First go through above link so you get more idea about TestCase. 
+         
          - Create Test file in app/tests directory from your root directory of project.
          
          - Copy below code in created file
          
                   class UserTest extends TestCase {
                   }
+                  
+         - Test Case is parent class which provide by laravel to create your test case.
+         - You have to extends TestCase class in your Test class so you can test your actions test.
+         - Example : 
+                  public function testloginUser(){
+         		$response = $this->call('GET', 'users/show');
+         		$this->assertTrue(true);
+         	}
+         -
          
