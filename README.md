@@ -34,6 +34,10 @@ Step 6 : Run the "phpunit" command to run the created test cases.
 
 Step 7 : You will get Response if you success to run all test cases 
          
-         - OK (4 tests, 4 assertions) 
+         - OK (3 tests, 3 assertions) 
+         
+Step 8 : For more detail go through 
+         
+         https://laravel.com/docs/5.0/testing
 
          
