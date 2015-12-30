@@ -9,4 +9,12 @@ Step 3 : How to use Test Case Feature in your project follow the below url.
          
          https://laravel.com/docs/5.0/testing
          
-Step 4 : 
+Step 4 : Simple Test Case Example mention as below 
+
+         - Create Test file in app/tests directory from your root directory of project.
+         
+         - Copy below code in created file
+         
+                  class UserTest extends TestCase {
+                  }
+         
